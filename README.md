@@ -1,8 +1,7 @@
 
-# Song title & Artist recognition
+# Top 5 travel spots based on city name
 
-The program is built on the [Spotify Million song Dataset](https://www.kaggle.com/datasets/joebeachcapital/57651-spotify-songs). User have to give a snippet of lyrics of a song (the song must be present in the dataset) and the program will give outputs with the Song's name and the Artist's name for the snippet.
-
+The program is built on the [Travel Dataset: Guide to India's Must See Places](https://www.kaggle.com/datasets/saketk511/travel-dataset-guide-to-indias-must-see-places). User only have to give a city's name(not case sensitive) as input and the program will give desired output based on that.
 
 
 ## Author
