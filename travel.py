@@ -1,5 +1,5 @@
 import pandas as pd
-import numpy as np
+
 df=pd.read_csv("Top Indian Places to Visit.csv")
 df=df.drop(columns=['Unnamed: 0', 'Establishment Year','Weekly Off','Zone','State','Significance','Type'])
 
@@ -55,4 +55,6 @@ sorted_df = city_df.sort_values(by='Score', ascending=False)
 #top_5_places = sorted_df.head(5)['Name'].tolist()
 print("\nTop 5 places are : \n")
 #print(sorted_df.loc[0,5])
-print(sorted_df.head(5)['Name'].tolist())
+for i in range(5):
+    print(sorted_df['Name'].iloc[i])
+#print(sorted_df.head(5)['Name'].tolist())
