@@ -38,10 +38,4 @@ after the installation of dependencies are completed, run :
 ```
 Here's an example how to run it.
 
-![Demo 1](https://github.com/BiswajitDeb/Spotify_Singer_album_detection/blob/main/Images/Demo%202.jpg)
-
-![Validation 1](https://github.com/BiswajitDeb/Spotify_Singer_album_detection/blob/main/Images/Demo%201.jpg)
-
-Another example :
-
-![Demo 2](https://github.com/BiswajitDeb/Spotify_Singer_album_detection/blob/main/Images/Demo%203.jpg)
+![Demo 1](https://github.com/BiswajitDeb/Top-5-Travel-spots/blob/main/Demo1.jpg)
