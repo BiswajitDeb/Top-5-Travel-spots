@@ -31,13 +31,10 @@ Go to the directory and open bash / cmd there and run the command below to meet 
   pip install -r requirements.txt
 ```
 
-![Screenshot of installing requirements](https://github.com/BiswajitDeb/Spotify_Singer_album_detection/blob/main/Images/requirements.jpg)
-
-
 after the installation of dependencies are completed, run : 
 
 ```bash
-  python Driver.py
+  python travel.py
 ```
 Here's an example how to run it.
 
